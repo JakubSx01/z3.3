@@ -12,9 +12,10 @@ class Main {
 for(int k=10;k>0;k--){
   
       for(int j=0; j<10;j++){
-          System.out.print(liczby.get(l)+" ");
+          System.out.print(liczby.get(l)+"\t\t");
         l++;}
-          System.out.println();
+          System.out.println("");
+           System.out.println("");
           
 
 }
